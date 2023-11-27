@@ -1,0 +1,2 @@
+# GithubDiIary
+Githubリポジトリに日記を記録できるシンプルな日記アプリ
